@@ -1,0 +1,32 @@
+X:\учёба\универ\ооп\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.exe
+X:\учёба\универ\ооп\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.deps.json
+X:\учёба\универ\ооп\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.runtimeconfig.json
+X:\учёба\универ\ооп\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.runtimeconfig.dev.json
+X:\учёба\универ\ооп\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.dll
+X:\учёба\универ\ооп\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.pdb
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.csproj.AssemblyReference.cache
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.GeneratedMSBuildEditorConfig.editorconfig
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.AssemblyInfoInputs.cache
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.AssemblyInfo.cs
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.csproj.CoreCompileInputs.cache
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.dll
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\refint\lab1task3.dll
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.pdb
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.genruntimeconfig.cache
+X:\учёба\универ\ооп\lab1task3\lab1task3\obj\Debug\net5.0\ref\lab1task3.dll
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.exe
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.deps.json
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.runtimeconfig.json
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.runtimeconfig.dev.json
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.dll
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\bin\Debug\net5.0\lab1task3.pdb
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.csproj.AssemblyReference.cache
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.GeneratedMSBuildEditorConfig.editorconfig
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.AssemblyInfoInputs.cache
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.AssemblyInfo.cs
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.csproj.CoreCompileInputs.cache
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.dll
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\refint\lab1task3.dll
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.pdb
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\lab1task3.genruntimeconfig.cache
+X:\учёба\универ\ооп\lab1 Ozeran\lab1task3\lab1task3\obj\Debug\net5.0\ref\lab1task3.dll

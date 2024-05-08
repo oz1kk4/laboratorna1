@@ -1,0 +1,11 @@
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.csproj.AssemblyReference.cache
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.csproj.SuggestedBindingRedirects.cache
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.Form1.resources
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.Properties.Resources.resources
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.csproj.GenerateResource.cache
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.csproj.CoreCompileInputs.cache
+X:\учёба\универ\ооп\lab1task5\lab1task5\bin\Debug\lab1task5.exe.config
+X:\учёба\универ\ооп\lab1task5\lab1task5\bin\Debug\lab1task5.exe
+X:\учёба\универ\ооп\lab1task5\lab1task5\bin\Debug\lab1task5.pdb
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.exe
+X:\учёба\универ\ооп\lab1task5\lab1task5\obj\Debug\lab1task5.pdb

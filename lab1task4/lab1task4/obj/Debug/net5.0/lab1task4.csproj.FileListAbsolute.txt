@@ -1,0 +1,16 @@
+X:\учёба\универ\ооп\lab1task4\lab1task4\bin\Debug\net5.0\lab1task4.exe
+X:\учёба\универ\ооп\lab1task4\lab1task4\bin\Debug\net5.0\lab1task4.deps.json
+X:\учёба\универ\ооп\lab1task4\lab1task4\bin\Debug\net5.0\lab1task4.runtimeconfig.json
+X:\учёба\универ\ооп\lab1task4\lab1task4\bin\Debug\net5.0\lab1task4.runtimeconfig.dev.json
+X:\учёба\универ\ооп\lab1task4\lab1task4\bin\Debug\net5.0\lab1task4.dll
+X:\учёба\универ\ооп\lab1task4\lab1task4\bin\Debug\net5.0\lab1task4.pdb
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.csproj.AssemblyReference.cache
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.GeneratedMSBuildEditorConfig.editorconfig
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.AssemblyInfoInputs.cache
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.AssemblyInfo.cs
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.csproj.CoreCompileInputs.cache
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.dll
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\refint\lab1task4.dll
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.pdb
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\lab1task4.genruntimeconfig.cache
+X:\учёба\универ\ооп\lab1task4\lab1task4\obj\Debug\net5.0\ref\lab1task4.dll
